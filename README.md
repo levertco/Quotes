@@ -18,3 +18,15 @@ This is a personal blogging website where you can create and share your opinions
 9. As a writer, I would like to update or delete blogs I have created.
 
 ### Usage manual
+Upon opening the webpage the user will see the recent blogs of wich the he or she can read and comment on different posts.
+The user can also subscribe in order to get alerts when a new post is added and also the user will be able to:
+1. He or she will be able to
+    1. Add / delete posts.
+    2. Delete comments
+    3. View a customized profile page
+    
+### Tech used
+1. HTML and CSS
+2. Python
+3. Flask
+4. Postgres sql
