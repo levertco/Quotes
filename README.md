@@ -53,7 +53,7 @@ $ sudo apt-get install postgresql postgresql-contrib libpq-dev
 To access this application on your command line, you need to clone it 
 `git clone https://github.com/levertco/quotes.git`
 
-### Known Bugs :x:
+### Known Bugs
 No known bugs detected.
 
 ### Licence
