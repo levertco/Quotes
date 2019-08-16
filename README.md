@@ -14,3 +14,4 @@ As a user, I would like to an email alert when a new post is made by joining a s
 As a user, I would like to see random quotes on the site
 As a writer, I would like to sign in to the blog.
 As a writer, I would also like to create a blog from the application.
+As a writer, I would like to delete comments that I find insulting or degrading.
