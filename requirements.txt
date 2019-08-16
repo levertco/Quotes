@@ -44,7 +44,6 @@ python-editor==1.0.3
 python-embedded-launcher==0.12
 python-vlc==3.0.7110
 pytz==2019.2
-pywin32==224
 requests==2.22.0
 six==1.11.0
 SQLAlchemy==1.2.14
