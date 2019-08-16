@@ -24,7 +24,8 @@ The user can also subscribe in order to get alerts when a new post is added and 
     1. Add / delete posts.
     2. Delete comments
     3. View a customized profile page
-Link {https://bloggedguotes.herokuapp.com}
+
+Website link {https://bloggedguotes.herokuapp.com}
 ### Tech used
 1. HTML and CSS
 2. Python
