@@ -16,3 +16,5 @@ This is a personal blogging website where you can create and share your opinions
 7. As a writer, I would also like to create a blog from the application.
 8. As a writer, I would like to delete comments that I find insulting or degrading.
 9. As a writer, I would like to update or delete blogs I have created.
+
+### Usage manual
