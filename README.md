@@ -30,3 +30,33 @@ The user can also subscribe in order to get alerts when a new post is added and 
 2. Python
 3. Flask
 4. Postgres sql
+
+## Set up and Installation
+### Prerequisites
+The user will require git, flask, postgres and python3.7 installed in their machine.
+To install the abpve, you can use the following commands
+```
+#git
+$ sudo apt install git-all
+
+#python3.7
+$ sudo apt-get install python3.7
+
+#flask
+$ pip install flask
+
+#postgres
+$ sudo apt-get install postgresql postgresql-contrib libpq-dev
+```
+
+### Installation
+To access this application on your command line, you need to clone it 
+`git clone https://github.com/levertco/quotes.git`
+
+### Known Bugs :x:
+No known bugs detected.
+
+### Licence
+This project is under the [MIT](https://github.com/levertco/quotes/blob/master/LICENSE) licence
+
+Copyright (c) 2019 Levert Ouma
