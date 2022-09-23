@@ -33,7 +33,7 @@ mysqlclient==1.4.2.post1
 PasteDeploy==2.0.1
 plaster==1.0
 plaster-pastedeploy==0.7
-protobuf==3.9.0
+protobuf==3.18.3
 psycopg2==2.7.6.1
 pyperclip==1.7.0
 pypiwin32==223
